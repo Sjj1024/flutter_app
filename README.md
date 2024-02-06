@@ -1,6 +1,7 @@
-# pad_webview
+#  flutter_app
 
-A new Flutter project.
+一个为了开发手机和pad端的应用而存在的仓库，支持android和ios平台，还有pad端支持，现在集成了webview和scanner二维码扫描功能，
+后续可能会增加别的新功能
 
 ## Getting Started
 
